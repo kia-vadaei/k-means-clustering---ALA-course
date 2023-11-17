@@ -33,7 +33,7 @@ for i in range(k):
 ## Author
 [Kianoosh Vadaei](https://github.com/kia-vadaei)
 
-## Output
+## Output Example
 
 <img src="https://media.licdn.com/dms/image/D4E22AQGZ14NMyEJ1kA/feedshare-shrink_800/0/1700181378744?e=1703116800&v=beta&t=TWSw08w84C3g0HlLLEpgZCJ9AtLaEByCYFyaPC9hwE8" alt="Alt Text" width="400"/>
 
