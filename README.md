@@ -22,8 +22,8 @@ for i in range(k):
 
 ## Files and Directories
 
-- kmeans.py: Contains the k-means clustering functions.
-- kianoosh/: Directory for saving centroid images.
+- main.ipynp: Contains the k-means clustering functions.
+- centroids/: Directory for saving centroid images.
   
 ## Dependencies
 
@@ -31,7 +31,7 @@ for i in range(k):
 - PIL (Pillow)
 
 ## Author
-[Kianoosh Vadaei](https://github.com/kia-vadaei)
+- [Kianoosh Vadaei](https://github.com/kia-vadaei)
 
 ## Output Example
 
