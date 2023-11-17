@@ -32,3 +32,8 @@ for i in range(k):
 
 ## Author
 [Kianoosh Vadaei](https://github.com/kia-vadaei)
+
+## Output
+
+![K-Means Clustering](https://media.licdn.com/dms/image/D4E22AQGZ14NMyEJ1kA/feedshare-shrink_800/0/1700181378744?e=1703116800&v=beta&t=TWSw08w84C3g0HlLLEpgZCJ9AtLaEByCYFyaPC9hwE8){:width="100" height="140px"}
+
